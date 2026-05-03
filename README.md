@@ -11,8 +11,6 @@
       </p>
       <p>
         <b>version 0.6-1.0 planned
-        <br>
-        <i>Username: crydiaa | Password: 1234</i>
       </p>
     </td>
   </tr>
