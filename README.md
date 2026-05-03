@@ -6,13 +6,17 @@
     <td valign="top">
       <h1>crydiaaos</h1>
       <p>Official github page for <b>Crydiaa! OS</b> - A passion project by a solo developer dedicated to blending high-performance computing with the signature Crydiaa aesthetic. Built for users who want a distro that looks as good as it runs, Crydiaa! OS is optimized for daily use without compromising on style. I will try to make version 1.0 polished and usable as a daily driver.</p>
-
-      <p><b>version 0.5 "Shadow Eclipse":</b> <a href="work in progress">Download ISO</a> — work in progress</p>
-      <p><b>version 0.6:</b> coming soon — debloat</p>
-      <p><b>version 0.7:</b> coming soon — install stuff · gaming · flatpak</p>
-      <p><b>version 0.8:</b> coming soon — themes</p>
-      <p><b>version 0.9:</b> coming soon — testing ground · polish</p>
-      <p><b>version 1.0:</b> coming soon — full release</p>
+      <p>
+        <b>version 0.5 "Shadow Eclipse":</b> <a href=work in progress">Download ISO</a>
+      </p>
+      <p>
+        <b>version 0.3 "Wolfy Void":</b> <a href="https://drive.google.com/file/d/1_g03HTZC16EaiDuvwg-TABHm9CY_BoRu/view?usp=sharing">Download ISO</a>
+      </p>
+      <p>
+        <b>version 0.2 (outdated):</b> <a href="https://drive.google.com/file/d/1z_hiHz6TqwzPp1r3p0MY5spoUYb6J20D/view?usp=sharing">Download ISO</a>
+        <br>
+        <i>Username: crydiaa | Password: 1234</i>
+      </p>
     </td>
   </tr>
 </table>
