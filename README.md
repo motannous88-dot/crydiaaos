@@ -12,6 +12,7 @@
       <p>
         <b>version 0.6-1.0 planned
       </p>
-    </td>
+        </p> versions 0.1-0.4 (broken)
+  </td>
   </tr>
 </table>
