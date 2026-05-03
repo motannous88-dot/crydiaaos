@@ -9,14 +9,6 @@
       <p>
         <b>version 0.5 "Shadow Eclipse":</b> <a href=work in progress">Download ISO</a>
       </p>
-      <p>
-        <b>version 0.3 "Wolfy Void":</b> <a href="https://drive.google.com/file/d/1_g03HTZC16EaiDuvwg-TABHm9CY_BoRu/view?usp=sharing">Download ISO</a>
-      </p>
-      <p>
-        <b>version 0.2 (outdated):</b> <a href="https://drive.google.com/file/d/1z_hiHz6TqwzPp1r3p0MY5spoUYb6J20D/view?usp=sharing">Download ISO</a>
-        <br>
-        <i>Username: crydiaa | Password: 1234</i>
-      </p>
     </td>
   </tr>
 </table>
